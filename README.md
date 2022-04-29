@@ -16,6 +16,8 @@ http://bobbymitchell97.pythonanywhere.com/
 ### recent changes
 but due to changes tweepy doesnt allow programmers to use tweepy for deployment without paying the server, 
 ##### more information on this => https://www.pythonanywhere.com/forums/topic/398/
+## how to use the application
+### user manual => https://drive.google.com/file/d/19yGrI6Upfo-kv9POLXpYsoRamZ9pGqmb/view?usp=sharing
 
 # Original code
 this github directory is for use only,
